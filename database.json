@@ -11,11 +11,11 @@
     },
     {
         "id": 2,
-        "nom": "Abeche",
+        "nom": "Abéché",
         "images": ["https://djidey-kolio.github.io/database/data%20base/images/Abeche.jpg"],
         "latitude": 40.6892,
         "longitude": -74.0445,
-        "description": "Abeche est l'un des centres culturels et ethnographiques du Tchad et la troisième plus grande ville du pays, la plus peuplée après N'Djaména, la capitale, et Moundou, la capitale économique. Dans la ville, il reste d'anciens vestiges des châteaux, des structures et des tombes des anciens sultans. Les marchés, les mosquées et les bâtiments de l'époque française d'Abeche valent vraiment le détour. La ville a été utilisée comme bastion des Français pendant de nombreuses années.",
+        "description": "Abéché est l'un des centres culturels et ethnographiques du Tchad et la troisième plus grande ville du pays, la plus peuplée après N'Djaména, la capitale, et Moundou, la capitale économique. Dans la ville, il reste d'anciens vestiges des châteaux, des structures et des tombes des anciens sultans. Les marchés, les mosquées et les bâtiments de l'époque française d'Abeche valent vraiment le détour. La ville a été utilisée comme bastion des Français pendant de nombreuses années. Classé au patrimoine mondiale de l'Unesco depuis 2005",
         "distance": 897.3,
         "province": "Région du Ouaddai"
     },
@@ -27,7 +27,7 @@
         "longitude": 2.2945,
         "description": "Fleuve d'Afrique, long de 1 200 km, né en République centrafricaine, mais dont la majeure partie du cours se situe au Tchad. Il reçoit le Logone à N'Djamena. Leurs eaux couvrent chaque année de vastes étendues et se jettent dans le lac Tchad par un delta. Le fleuve joue un rôle essentiel pour l'agriculture (dépôts alluviaux), l'élevage (transhumance de saison sèche) et la pêche.",
         "distance": 278.5,
-        "province": "Région du Chari"
+        "province": "Région de Chari"
     },
     {
         "id": 4,

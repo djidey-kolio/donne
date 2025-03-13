@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "nom": "Abtouyour",
+        "images": ["https://djidey-kolio.github.io/database/data%20base/images/Abtuyur.jpg"],
+        "latitude": 48.8584,
+        "longitude": 2.2945,
+        "description": "Un point de repère, une beauté de la nature, symbolisant à la fois la culture et l'histoire du peuple de Guera en général et du peuple Kenga en particulier. La région du Guera est située au centre même du Tchad et partage les frontières avec le Batha, le Moyen Chari, le Sila, le Salamat et le Hadjar Lamis. Sa superficie est de 52 950 km².",
+        "distance": 512,
+        "province": "Région du Guera"
+    },
+    {
+        "id": 2,
+        "nom": "Abeche",
+        "images": ["https://djidey-kolio.github.io/database/data%20base/images/Abeche.jpg"],
+        "latitude": 40.6892,
+        "longitude": -74.0445,
+        "description": "Abeche est l'un des centres culturels et ethnographiques du Tchad et la troisième plus grande ville du pays, la plus peuplée après N'Djaména, la capitale, et Moundou, la capitale économique. Dans la ville, il reste d'anciens vestiges des châteaux, des structures et des tombes des anciens sultans. Les marchés, les mosquées et les bâtiments de l'époque française d'Abeche valent vraiment le détour. La ville a été utilisée comme bastion des Français pendant de nombreuses années.",
+        "distance": 897.3,
+        "province": "Région du Ouaddai"
+    },
+    {
+        "id": 3,
+        "nom": "Chari",
+        "images": ["https://djidey-kolio.github.io/database/data%20base/images/fleuve_chari.jpg"],
+        "latitude": 48.8584,
+        "longitude": 2.2945,
+        "description": "Fleuve d'Afrique, long de 1 200 km, né en République centrafricaine, mais dont la majeure partie du cours se situe au Tchad. Il reçoit le Logone à N'Djamena. Leurs eaux couvrent chaque année de vastes étendues et se jettent dans le lac Tchad par un delta. Le fleuve joue un rôle essentiel pour l'agriculture (dépôts alluviaux), l'élevage (transhumance de saison sèche) et la pêche.",
+        "distance": 278.5,
+        "province": "Région du Chari"
+    },
+    {
+        "id": 4,
+        "nom": "Gaoui",
+        "images": ["https://djidey-kolio.github.io/database/data%20base/images/Gaoui.jpg"],
+        "latitude": 48.8581,
+        "longitude": 2.2940,
+        "description": "Le village de Gaoui est une destination que vous devez voir parmi les endroits à visiter au Tchad. Ici, il y a les restes de l'ancien sultan de Sao, la maison et la civilisation de Sao. Sao était une civilisation connue sous le nom de race géante dans le Tchad d'aujourd'hui au 7ème siècle. Plus tard, la région est devenue un petit sultanat. Des maisons en adobe traditionnelles dans le village et des ruines intéressantes dans le musée sont exposées, telles que les vêtements du sultan, la poterie ancienne et quelques photographies. La maison est un bâtiment de deux étages avec de petits trous avec des fenêtres et est conçue pour rester au frais à l'intérieur. Ses murs sont décorés de peintures colorées traditionnelles.",
+        "distance": 10,
+        "province": "Région de Chari-Baguirmi"
+    },
+    {
+        "id": 5,
+        "nom": "Guelta d’Archei",
+        "images": ["https://djidey-kolio.github.io/database/data%20base/images/archei1.jpg"],
+        "latitude": 48.8581,
+        "longitude": 2.2940,
+        "description": "Guelta d'Archei, le célèbre canyon du désert du Sahara, est situé sur le plateau d'Ennedi près de la ville de Fada. La vue panoramique à son point culminant est impressionnante, et les œuvres d'art gravées sur les murs anciens ajoutent une atmosphère historique à la région. Il y a aussi des crocodiles dans la région. Vous pouvez rejoindre Guelta avec des visites organisées depuis la capitale N'Djamena, mais un long voyage vous attend. Vous aurez un voyage de quatre jours dans le désert avec un véhicule 4×4, puis vous marcherez pendant quelques heures pour atteindre la guelta. Alternativement, vous pouvez prendre l'avion pour Fada et organiser une visite à partir de là.",
+        "distance": 898,
+        "province": "Région de l'Ennedi"
+    },
+    {
+        "id": 6,
+        "nom": "Lac Tchad",
+        "images": ["https://djidey-kolio.github.io/database/data%20base/images/lactchad.jpg"],
+        "latitude": 48.8581,
+        "longitude": 2.2940,
+        "description": "Le lac Tchad est situé à l'intersection des frontières du Cameroun, du Tchad, du Niger et du Nigeria. Il a une importance économique car il fournit de l'eau à environ 75 millions de personnes de 4 pays différents qui l'entourent. Bien que le lac rétrécisse en raison de graves changements climatiques et de sécheresses, il reste une destination populaire pour la pêche, la navigation de plaisance et d'autres activités maritimes.",
+        "distance": 128,
+        "province": "Région du Lac"
+    },
+    {
+        "id": 7,
+        "nom": "Les lacs Ounianga",
+        "images": ["https://djidey-kolio.github.io/database/data%20base/images/lacounianga.jpg"],
+        "latitude": 48.8581,
+        "longitude": 2.2940,
+        "description": "Les lacs Ounianga sont le seul site du patrimoine mondial du Tchad et se composent de 18 lacs situés dans le désert du Sahara. La superficie totale des lacs couvre une superficie d'environ 20 kilomètres carrés. Situés dans le climat chaud du désert, les lacs sont alimentés par des sources d'eau fossiles souterraines. Les lacs ont reçu leur nom du village voisin appelé Ounianga. En raison de leurs taux d'évaporation élevés, leur eau est généralement salée.",
+        "distance": 966,
+        "province": "Région de l'Ennedi Ouest"
+    },
+    {
+        "id": 8,
+        "nom": "Parc National de Zakouma",
+        "images": ["https://djidey-kolio.github.io/database/data%20base/images/zakuma.jpg"],
+        "latitude": 48.8581,
+        "longitude": 2.2940,
+        "description": "Le parc national de Zakouma est situé au sud du désert du Sahara, dans le cadre de l'écosystème soudano-sahélien. Sur ses vastes terres, il existe de nombreuses espèces d'animaux tels que les hyènes, les éléphants, les guépards, les buffles, les léopards et les antilopes. Dans cette superficie de 305 000 hectares, plus de trois cent soixante-dix espèces d'oiseaux ont été enregistrées. Par conséquent, lorsque vous assistez à des activités telles que l'observation des oiseaux et le safari à Zakouma, vous pouvez être sûr que vous vivrez une expérience inoubliable.",
+        "distance": 521,
+        "province": "Région de Salamat"
+    },
+    {
+        "id": 9,
+        "nom": "Les montagnes de Tibesti",
+        "images": ["https://djidey-kolio.github.io/database/data%20base/images/le_montagne_de_tibesti.jpg"],
+        "latitude": 48.8581,
+        "longitude": 2.2940,
+        "description": "Situées dans le nord du Tchad, les montagnes du Tibesti sont une région qui attend d'être découverte, s'élevant au milieu du Sahara. Les montagnes, qui attirent l'attention avec leur sommet Emi Koussi, qui atteint 3 415 mètres, attirent à la fois les amoureux de la nature et les aventuriers. Dans la région où se trouvent les anciennes peintures rupestres, les paysages volcaniques et les sources d'eau chaude, vous pouvez également avoir l'occasion de connaître la riche culture du peuple Toubou. De plus, les courses de chameaux passionnantes rendent cette région encore plus attrayante. Les montagnes du Tibesti offrent une expérience unique aux amateurs de nature et d'histoire.",
+        "distance": 1011,
+        "province": "Région de Tibesti"
+    },
+    {
+        "id": 10,
+        "nom": "N'djamena",
+        "images": ["https://djidey-kolio.github.io/database/data%20base/images/ndjamena.jpg"],
+        "latitude": 48.8581,
+        "longitude": 2.2940,
+        "description": "N'djamena, la capitale du Tchad, est située au point où la rivière Chari rencontre la rivière Logon. En plus d'être le centre économique du pays avec la production de coton brut, l'élevage et la pêche, il abrite de nombreux endroits incontournables. Certains d'entre eux sont la Grande Mosquée, la cathédrale Notre-Dame et le Musée national du Tchad. Avenue Charles de Gaulle est une rue où vous trouverez la plupart des boutiques de la ville. Vous pouvez vous rendre à Encemine par la route et à l'aéroport international du Tchad.",
+        "distance": 0,
+        "province": "Région de Chari-Baguirmi"
+    },
+    {
+        "id": 11,
+        "nom": "Palais Royal de Ouara",
+        "images": ["https://djidey-kolio.github.io/database/data%20base/images/ouara00.jpg"],
+        "latitude": 48.8581,
+        "longitude": 2.2940,
+        "description": "Ancienne capitale du royaume de Ouaddaï, Ouara est situé à environ 60 km au nord-ouest de l'actuelle capitale Abéché. La cité a été abandonnée par ses souverains au 19e siècle à cause de la sécheresse. De cette cité, il ne reste que les ruines du palais du sultan Abdel-Kerim Ibn Djamé. Ce palais a été construit en briques cuites au XVIe siècle par un architecte égyptien. Il est entouré d'une enceinte murale qui couvre environ 325 m de diamètre, encore debout malgré certaines dégradations dues aux intempéries. Le palais comporte plusieurs bâtiments dont entre autres : la résidence du Sultan comprenant un rez-de-chaussée et un étage ; une haute tour de guet ; une salle de conseil et des audiences, un important édifice de 8m de haut caractérisé par des murs de 1m d'épaisseur ; le logement des épouses princières et le logement des concubines. Une mosquée s'élève à l'extérieur de la grande enceinte. C'est un bâtiment de 25m sur 27m en briques cuites également.",
+        "distance": 801.6,
+        "province": "Région du Ouaddai"
+    },
+    {
+        "id": 12,
+        "nom": "Musée National du Tchad",
+        "images": ["https://djidey-kolio.github.io/database/data%20base/images/musee.jpg"],
+        "latitude": 48.8581,
+        "longitude": 2.2940,
+        "description": "Le Musée national du Tchad, également connu sous le nom de Musée national de N'Djamena, est situé dans la capitale N'Djamena. Fondé fin 1962, le musée a ensuite déménagé dans un endroit complètement différent. Le musée propose quatre expositions principales : préhistoire, protohistoire, archives et arts/traditions populaires. Les expositions comprennent des objets tels que d'anciennes têtes de pierre, des outils et des haches à trous en spirale. De plus, des objets bruts tels que des masques humains et des outils en os récupérés sur des sites sacrés traditionnels sont également exposés au musée. Le musée abrite également le crâne d'un Sahelanthropus, considéré comme un lointain précurseur de l'humanité qui vivait dans la région il y a sept millions d'années. Ce crâne a été nommé « Toumai », ce qui signifie « Espoir de vie » dans la langue locale Daza.",
+        "distance": 0,
+        "province": "Région de Chari-Baguirmi"
+    }
+]
